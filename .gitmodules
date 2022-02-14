@@ -1,0 +1,21 @@
+[submodule "week-1-assignment-salihasy"]
+	path = week-1-assignment-salihasy
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-1-assignment-salihasy.git
+[submodule "week-1-HTML-CSS-JS-assignment"]
+	path = week-1-HTML-CSS-JS-assignment
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-1-assignment-salihasy.git
+[submodule "week-2-frontend-with-vue-and-vuex"]
+	path = week-2-frontend-with-vue-and-vuex
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-2-assignment-salihasy.git
+[submodule "week-3-tdd-vue-website-with-jest"]
+	path = week-3-tdd-vue-website-with-jest
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-3-assignment-salihasy.git
+[submodule "week-4-vue-atdd-tdd-cycle"]
+	path = week-4-vue-atdd-tdd-cycle
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-4-assignment-salihasy.git
+[submodule "week-5-golang-algorithms-with-tdd"]
+	path = week-5-golang-algorithms-with-tdd
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-5-assignment-salihasy.git
+[submodule "week-6-golang-backend-with-tdd"]
+	path = week-6-golang-backend-with-tdd
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-6-assignment-salihasy.git
